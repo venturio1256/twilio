@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+    <Sms from="+17205062175" to="+17207468575" action="confirmation.xml" method="GET">
+        We found this message in a bottle message. Ufa!</Sms> 
+</Response>
